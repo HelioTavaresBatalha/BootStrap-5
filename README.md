@@ -1,6 +1,6 @@
 # BootStrap - 5  Componentes 
  
- Neste repositório mostro como trabalhar os diferentes tipos de componentes no Bootstrap-5. Exemplo dos componentes: 
+ Neste repositório mostro como trabalhar os diferentes tipos de componentes no Bootstrap-5. Exemplos: 
  
     * Alert;
     * Accordion;
